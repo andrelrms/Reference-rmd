@@ -1,7 +1,9 @@
 ---
 title: "References"
 author: "Andre Lobato Ramos"
-output: html_document
+output: 
+  pdf_document:
+    fig_caption: yes
 ---
 
 ```{r Functions,echo=FALSE,warning=FALSE,message=FALSE}
